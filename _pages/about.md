@@ -16,6 +16,10 @@ Projects
 One project I greatly enjoyed was in a computer graphics course in which we needed to create a completely original and interactable graphic scenario using three.js. For this, I tried to create a lovecraftian creature in a horror scenario.
 ![Graphic project](/images/graphic_project.JPG)
 
+A more recent project of mine is creating an ASCII tactical-RPG from scratch in Python. I decided to do this in order to reinforce concepts I learned throughout my undergrad studies, from things as simple as
+inheritence to more complex topics like machine learning algorithms using heuristics (the enemy AI).
+![Personal project](/images/personal_project.JPG)
+
 Hobbies & Interests
 =================== 
 While I pursue computer science professionally, I also practice drawing as an off-and-on hobby. I certainly wouldn't say I'm good at it, but I do like seeing my skills improve over the years I continue. I also practice creative writing, though to a much lesser extent.   
@@ -23,6 +27,3 @@ While I pursue computer science professionally, I also practice drawing as an of
 Contact
 =======
 E-mail: seeum200@gmail.com, ssfaruqu@ucsc.edu
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
