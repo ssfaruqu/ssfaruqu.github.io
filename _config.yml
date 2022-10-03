@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-linkedin:
-  username               : &linkedin
+twitter:
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Seeum Faruque"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              :
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/seeum-faruque-712674202"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
